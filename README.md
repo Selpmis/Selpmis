@@ -14,11 +14,11 @@ Hi, I'm Selpmis. I'm new here and excited to learn!
 
 
 <details open>
-<summary>My top priorities</summary>
+<summary>Certification goals</summary>
 
-| Rank | Priorities |
-|-----:|---------------|
-|     1| Learn new things |
+| Certification | Course link | Exam cost |
+|-----|---------------|-----:|
+|GitHub Foundations|https://examregistration.github.com/certification/GHF| $49 |
 |     2| Develop confidence |
 |     3| Expand horizons |
 
